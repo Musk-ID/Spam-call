@@ -27,4 +27,4 @@ $ git clone https://github.com/Musk-ID/Spam-call
 $ cd Spam-call
 $ python main.py
 ```
-- [X] Join Jadi Sultan [here](https://rotf.lol/GetKey)
+- [X] Get Key [here](https://rotf.lol/GetKey)
